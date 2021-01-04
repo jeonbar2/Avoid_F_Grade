@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="./reference_image/start_page.jpg">
+<img src="./reference_image/start_page.JPG">
 
 ## 팀원
 
@@ -41,31 +41,31 @@
     </tr>
     <tr>
         <td>
-        <img src="./reference_image/stage1.jpg" width=650 height=400>
+        <img src="./reference_image/stage1.JPG" width=650 height=400>
         <br>▲ 첫번째 스테이지 화면
         </td>
     </tr>
     <tr>
         <td>
-        <img src="./reference_image/stage_clear.jpg" width=650 height=350>
+        <img src="./reference_image/stage_clear.JPG" width=650 height=350>
         <br>▲ 스테이지 클리어 화면
         </td>
     </tr>
     <tr>
         <td>
-        <img src="./reference_image/stage2.jpg" width=650 height=400>
+        <img src="./reference_image/stage2.JPG" width=650 height=400>
         <br>▲ 두번째 스테이지 화면
         </td>
     </tr>
     <tr>
         <td>
-        <img src="./reference_image/game_over.jpg" width=650 height=350>
+        <img src="./reference_image/game_over.JPG" width=650 height=350>
         <br>▲ 게임 오버 화면
         </td>
     </tr>
     <tr>
         <td>
-        <img src="./reference_image/game_clear.jpg" width=650 height=350>
+        <img src="./reference_image/game_clear.JPG" width=650 height=350>
         <br>▲ 게임 클리어 화면
         </td>
     </tr>
